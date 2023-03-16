@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Myimg{
+    width: 200px;
+    height: 400px;
+}
