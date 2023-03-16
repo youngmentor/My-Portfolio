@@ -4,6 +4,7 @@ import { AiOutlineInstagram } from "react-icons/ai";
 import { AiFillTwitterCircle } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
+
 import "./ProfComponents.css"
 const ProfComponent = () => {
   return (
@@ -20,7 +21,7 @@ const ProfComponent = () => {
             iusto. Adipisci in qui officia provident tenetur sequi, deserunt
             corporis quos?
           </p>
-          <button>Let's talk</button>
+          <button>Let's talk  </button>
           <Social>
             <p>Check out my</p>
             <div className="social-icons">
